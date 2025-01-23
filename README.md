@@ -1,0 +1,1 @@
+This repository contains all the Casio programs that I wrote for the fx-9860. It mainly consists of functions that apply numerical algorithms to get rid of redundant processes.
